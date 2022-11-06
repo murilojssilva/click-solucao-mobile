@@ -3,8 +3,9 @@
     "name": "picture-claim-mobile",
     "slug": "picture-claim-mobile",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "splash": {
+      "image": "./src/assets/icon.png"
+    },
+    "assetBundlePatterns": ["**/*"]
   }
 }
